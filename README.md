@@ -3,7 +3,7 @@
 Aspiring Full Stack Engineer | Systems Engineering Student from Argentina 🇦🇷
 
 I'm a determined Systems Engineering student and developer focused on building robust, modern applications. I've always found joy in creation, from coding mods as a kid to engineering scalable software today.
-I build any project that comes to mind, focusing on utility and learning, but also having fun. My favorite technologies right now are TypeScript, React, PostgreSQL, and Tailwind. I also code sometimes with Python or Java, both languages that I genuinely enjoy.
+I build any project that comes to mind, focusing on utility and learning, but also having fun. I code sometimes with Python or Java, both languages that I genuinely enjoy.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 🎮 My Journey 
 I started coding early—at the age of 10—building mods and plugins for Minecraft servers just for fun. After a professional hiatus competing in Fortnite at an elite level, I returned to programming two years ago. 
@@ -16,10 +16,6 @@ Music is my constant companion; I listen to any genre at any time of the day. I'
 🌱 I’m currently learning: 
 Deep diving into JavaScript fundamentals to achieve an expert-level understanding (focusing on advanced concepts to master React and TypeScript).
 
-🔭 I’m currently working on: 
-A Smart Inventory/Stock Management System. A full-stack application designed for data integrity and business efficiency.
-Stack: TS/React/Tailwind (Front) | Python/FastAPI/PostgreSQL (Back).
-Deployment Goal: Implementing Docker and AWS S3 for production-ready deployment.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 <!-- 
