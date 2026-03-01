@@ -6,7 +6,7 @@ I'm a determined Systems Engineering student and developer focused on building r
 I build any project that comes to mind, focusing on utility and learning, but also having fun. I code sometimes with Python or Java, both languages that I genuinely enjoy.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 🎮 My Journey 
-I started coding early—at the age of 10—building mods and plugins for Minecraft servers just for fun. After a professional hiatus competing in Fortnite at an elite level, I returned to programming two years ago. 
+I started coding early—at the age of 10—building mods and plugins for Minecraft servers just for fun. I returned to programming two years ago. 
 That competitive drive now fuels my constant learning and project development. I treat coding as a passion and a challenging hobby, striving constantly to get better.
 
 🎧 Interests  
